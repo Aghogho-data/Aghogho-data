@@ -14,6 +14,13 @@ I've spent 7+ years in accounting, internal controls and audit in FMCG manufactu
 - **Microsoft Certified: Power BI Data Analyst Associate** (PL-300), 2026
 - **Associate Chartered Accountant** (ACA), Institute of Chartered Accountants of Nigeria, 2019
 
+### 🏅 Training & awards
+- **Star Performer**, Data Visualization Associate Internship, Saint Louis University & Excelerate (2026)
+- **Winning team**, Data Analytics Track, DSN AI Bootcamp 2026, Data Science Nigeria
+- **Data Analysis 8-Week Intensive Program**, Apex Tech Forge Academy (2026)
+- **Data Analytics Bootcamp** (Excel, Power BI, SQL), Bliss Analytics (2026)
+- **Power BI Data Analyst (PL-300) Course**, Digital Skills Nigeria (2026)
+
 ### 🛠️ Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0F6CBD?style=flat&logoColor=white)
