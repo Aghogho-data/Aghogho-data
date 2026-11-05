@@ -1,4 +1,4 @@
-## Hi, I'm Aghogho Awaritoma 👋🏾
+## Hi, I'm Aghogho Faith Awaritoma 👋🏾
 
 **Chartered Accountant (ACA) and Data Analyst** based in Lagos, Nigeria.
 
